@@ -1,0 +1,195 @@
+body{
+    background-color: black;
+    font-family: 'Inter';
+}
+#imagemfundo{
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+#imagemfundo img{
+    width: 71vw;
+    margin-left: 27.2vw;
+    position: absolute;
+}
+header{
+    display: flex;
+    position: relative;
+    z-index: 1;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+header p{
+    margin-top: 1.5vw;
+    font-size: 1.6vw;
+    font-weight: 700;
+}
+header img{
+    width: 11.806vw;
+    margin: 0.5vw;
+}
+#deuteranopia{
+    margin-left: 40vw;
+}
+#protanopia{
+    margin-left: 7vw;
+}
+#duvidas{
+    font-size: 1.6vw;
+    color: black;
+    background-color: #888181;
+    font-weight: 700;
+    margin-left: 7vw;
+    border-radius: 20vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-top: 0.1vw;
+    padding-bottom: 0.1vw;
+    margin-top: 1vw;
+}
+#duvidas p{
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+    width: 6vw;
+}
+#bemvindo{
+    width: 39vw;
+    color: white;
+    margin-left: 5vw;
+}
+#bemvindo h1{
+    font-size: 4.5vw;
+    font-weight: 700;
+    margin-top: 7vw;
+}
+#bemvindo p{
+    font-size: 1.7vw;
+    margin-top: -1vw;
+}
+#baixar{
+    width: 11.5vw;
+    height: 3.5vw;
+    background-color: #888181;
+    color: black;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    padding-top: 0.1vw;
+    padding-bottom: 0.1vw;
+    font-weight: 700;
+    border-radius: 20vw;
+    margin-bottom: 21vw;
+}
+a{
+    text-decoration: none;
+}
+#baixar p{
+    margin-top: 0.6vw;
+    margin-left: 3.2vw;
+}
+#containerDeuteranopia{
+    background-color: white;
+    width: 101.65%;
+    height: 53vw;
+    margin-top: -2.1vw;
+    margin-left:-1vw;
+}
+#containerDeuteranopia h1{
+    margin: 0;
+    font-size: 2.8vw;
+    font-weight: 700;
+    margin-left: 5vw;
+}
+#containerDeuteranopia h3{
+    margin-left: 6vw;
+    width: 70.5vw;
+    font-size: 1.7vw;
+    font-weight: 700;
+}
+#containerDeuteranopia p{
+    margin-left: 6vw;
+    font-weight: 600;
+    font-size: 1.4vw;
+    width: 48.5vw;
+    margin-top: 3vw;
+}
+#ativadesativa{
+    margin-top: 4vw;
+    width: 89vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+#ativadesativa img{
+    width: 100%;
+}
+#ativadesativa p{
+    margin-left: 0vw;
+}
+#containerProtanopia{
+    width: 101.65%;
+    height: 53vw;
+    margin-top: -2.1vw;
+    margin-left:-1vw;
+    color: white;
+    margin-bottom: 2vw;
+}
+#containerProtanopia h1{
+    margin: 0;
+    font-size: 2.8vw;
+    font-weight: 700;
+    margin-left: 5vw;
+}
+#containerProtanopia h3{
+    margin-left: 6vw;
+    width: 70.5vw;
+    font-size: 1.7vw;
+    font-weight: 700;
+}
+#containerProtanopia p{
+    margin-left: 6vw;
+    font-weight: 600;
+    font-size: 1.4vw;
+    width: 48.5vw;
+    margin-top: 3vw;
+}
+#containerProtanopia #ativadesativa p{
+    margin-left: 0vw;
+}
+#duvidasFr{
+    width: 101.65%;
+    background-color: #ffffff;
+    margin-left:-1vw;
+    height: 110vw;
+}
+#duvidasFr h1{
+    margin-left: 46vw;
+    font-size: 2.8vw;
+    font-weight: 700;
+}
+#duvidasFr h3{
+    margin-left: 9vw;
+    font-size: 2vw;
+    width: 44.8vw;
+}
+#ladinho{
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    width: 54vw;
+    color: rgba(0, 0, 0, 0.60);
+    margin-left: 37vw;
+}
+#duvidasFr img{
+    width: 50vw;
+    margin-left: 45.5vw;
+    margin-bottom: 2vw;
+}
+footer{
+    height: 3vw;
+}
+footer p{
+    color: white;
+    font-size: 1.7vw;
+    margin-top: 1.4vw;
+    margin-left: 2.5vw;
+}
