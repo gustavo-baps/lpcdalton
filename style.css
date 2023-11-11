@@ -1,6 +1,7 @@
-body{
+html,body{
     background-color: black;
     font-family: 'Inter';
+    scroll-behavior: smooth;
 }
 #imagemfundo{
     z-index: -1;
